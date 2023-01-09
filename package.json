@@ -1,0 +1,19 @@
+{
+  "name": "john-muinde-portfolio",
+  "version": "1.0.0",
+  "description": "John Muinde Developer\r A personal portfolio for personal website: https://www.kimworks.buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-muinde/portfolio.git"
+  },
+  "author": "John Muinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-muinde/portfolio/issues"
+  },
+  "homepage": "https://github.com/john-muinde/portfolio#readme"
+}
