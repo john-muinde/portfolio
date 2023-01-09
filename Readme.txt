@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+John Muinde Developer
+A personal portfolio for personal website: https://www.kimworks.buzz
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
