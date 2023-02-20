@@ -350,7 +350,7 @@ a:hover {
   visibility: visible;
   opacity: 1;
 }
-.socials a i{
+.socialsCenter a i{
   color: wheat;
   margin: 5px;
   font-weight: 900;
@@ -1304,7 +1304,7 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+
 }
 
 /*--------------------------------------------------------------
